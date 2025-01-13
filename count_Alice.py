@@ -7,7 +7,7 @@ def main_count_Alice():
     # Step 2: Clean the text and return a list of words
     alice_words = clean_alice(alice_text)
     
-    # Step 3: Count the words and find the most frequent one
+    # Step 3: Count the words and find the most frequent one    
     max_word_count = count_words_in_Alice(alice_words)
     
     # Step 4: Print the most frequent word
