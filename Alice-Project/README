@@ -1,0 +1,18 @@
+# Alice in Wonderland Word Frequency Analyzer
+
+## Overview
+This Python program analyzes the text of **Alice in Wonderland** to find the most frequent word in the book. The program performs the following steps:
+1. Reads the text from the **Alice.txt** file.
+2. Cleans the text by removing non-alphanumeric characters and splitting it into words.
+3. Counts the frequency of each word and identifies the most frequent word in the book.
+
+## Requirements
+- Python 3.x
+- `Alice.txt` file containing the text of **Alice in Wonderland**
+
+## How to Use
+
+**Run the program:**
+   After navigating to the project folder, simply run the following command:
+   ```bash
+   python3 count_Alice.py
